@@ -1,2 +1,3 @@
-# loremipsum
-Ejerciocio GitHub con Bash - XAcademy (Cluster 2)
+# Ejemplo LoremIpsum
+
+Ejercicio GitHub con Bash - XAcademy (Cluster 2)
